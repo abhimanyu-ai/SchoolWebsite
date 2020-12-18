@@ -105,3 +105,55 @@ h4 {
 {
   margin-top:10px;
 }
+.book
+{
+  cursor: pointer;
+}
+
+.book hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+#aluminiimg1 {
+transition: transform .2s    
+}
+#aluminiimg1:hover {
+    transform: scale(0.9);
+}
+#aluminiimg2 {
+transition: transform .2s    
+}
+#aluminiimg2:hover {
+    transform: scale(0.9);
+}
+#aluminiimg3 {
+transition: transform .2s    
+}
+#aluminiimg3:hover {
+    transform: scale(0.9);
+}
+#aluminiimg4 {
+transition: transform .2s    
+}
+#aluminiimg4:hover {
+    transform: scale(0.9);
+}
+
